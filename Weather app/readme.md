@@ -15,7 +15,8 @@ It displays **current weather, hourly forecast (6 AM – 6 PM), and 7-day foreca
 
 ---
 
-### For live demo: skyy-cast.netlify.app
+### For live demo: 
+skyy-cast.netlify.app
 
 ## 📸 Full Preview
 ![Dashboard](./SkyCast.png)
